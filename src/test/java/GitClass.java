@@ -7,7 +7,7 @@ public class GitClass {
 
     /// new
 
-
+  // one more comment
 
 }
 
