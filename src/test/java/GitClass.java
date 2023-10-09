@@ -5,13 +5,12 @@ public class GitClass {
     ///comment #2
    ///message
 
-    /// new
-
-  /// one more comment
+    // message #5
 
 
-    ///  message #3333
-    ///  esa
+
+
+
 }
 
 
