@@ -4,6 +4,6 @@ public class GitClass {
 
 
      //comment #2
-    /// message on localBranch/newFunctionality
+
 
 }
